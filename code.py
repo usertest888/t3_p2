@@ -1,8 +1,6 @@
 import pandas as pd
 import streamlit as st
 from sklearn import datasets
-
-import tensorflow as tf
 from keras.models import load_model
 
 
